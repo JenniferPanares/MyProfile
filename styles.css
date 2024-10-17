@@ -13,8 +13,25 @@ ul {
     padding-left: 20px;
 }
 
+/* Add border and padding around sections */
+section {
+    border: 2px solid #007bff;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+}
+
+/* Styling for the footer */
 footer {
     text-align: center;
     padding: 20px 0;
     background-color: #f1f1f1;
+    border-top: 2px solid #007bff;
+}
+
+/* Navbar styling */
+.navbar {
+    border-bottom: 2px solid #007bff;
+    background-color: #ffffff;
 }
